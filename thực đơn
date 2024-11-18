@@ -1,0 +1,37 @@
+
+
+<h2>Menu Đồ Ăn</h2>
+
+<table border="1">
+    <tr>
+        <th>Tên Món</th>
+        <th>Giá</th>
+        <th>Mô Tả</th>
+    </tr>
+    <tr>
+        <td>Phở Bò</td>
+        <td>50,000 VND</td>
+        <td>Phở bò là món ăn truyền thống với nước dùng thơm ngon, thịt bò tươi và bánh phở mềm mại.</td>
+    </tr>
+    <tr>
+        <td>Bánh Mì</td>
+        <td>20,000 VND</td>
+        <td>Bánh mì giòn rụm, nhân thịt nguội, chả, rau sống và các loại gia vị đặc trưng.</td>
+    </tr>
+    <tr>
+        <td>Cơm Tấm</td>
+        <td>40,000 VND</td>
+        <td>Cơm tấm với sườn nướng thơm, chả trứng, và nước mắm chua ngọt đặc trưng.</td>
+    </tr>
+    <tr>
+        <td>Gỏi Cuốn</td>
+        <td>30,000 VND</td>
+        <td>Gỏi cuốn tươi mát, gồm tôm, thịt, rau sống và bánh tráng cuộn, ăn kèm với nước chấm đậm đà.</td>
+    </tr>
+    <tr>
+        <td>Bánh Xèo</td>
+        <td>35,000 VND</td>
+        <td>Bánh xèo giòn rụm, nhân thịt, tôm, giá đỗ, ăn kèm với rau sống và nước mắm chua ngọt.</td>
+    </tr>
+</table>
+
